@@ -1,3 +1,7 @@
+This proposal has been promoted to a "real version" here:
+https://github.com/privacybydesign/irma-frontend-packages
+
+
 # Proposal
 
 This is a proposal for how to bring `irmajs` and `irma-web-glue` together, and
